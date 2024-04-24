@@ -1,0 +1,1 @@
+Process and merge quality control results from multi-site, multi-subject, and multi-task giga_preprocessing2 neuroimaging datasets. Data is aggregated and consolidated into dataset specific and overall QC reports for resting state data.
